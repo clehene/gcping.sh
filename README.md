@@ -1,4 +1,7 @@
 Measure GCP latency from local host
+
+<p align="center"><img src="/img/gcping.sh.gif?raw=true"/></p>
+
 ```bash
 ./gcping.sh 
 ```
