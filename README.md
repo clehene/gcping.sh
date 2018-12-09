@@ -1,10 +1,11 @@
 Measure GCP latency from local host
-
-    ./gcping.sh 
-
+```bash
+./gcping.sh 
+```
 or 
-    watch -n 1 gcping.sh
-
+```bash
+watch -n 1 gcping.sh
+```
 
 ```bash
 endpoint                                           total    connect    pre-transfer  name-lookup  pong
